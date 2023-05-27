@@ -1,7 +1,0 @@
-{
-    "prettier.bracketSameLine": true,
-    "prettier.configPath": "",
-    "prettier.useTabs": true,
-    "prettier.withNodeModules": true,
-    "prettier.vueIndentScriptAndStyle": false
-}
